@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+Simple Banking System (Python)/Advanced system/
+Simple Banking System (Python)/Card anatomy/
+Simple Banking System (Python)/I'm so lite/
+Simple Banking System (Python)/Luhn algorithm/
+Simple Banking System (Python)/lesson-info.yaml
+Simple Banking System (Python)/task/banking/__pycache__/
+Simple Banking System (Python)/task/test/
+Simple Banking System (Python)/task/tests.py
+card.sq3db
+course-info.yaml
+course-remote-info.yaml
+env/
+requirements.txt
